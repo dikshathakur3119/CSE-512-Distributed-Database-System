@@ -7,5 +7,3 @@ Public IP :
 Machine1 : 3.84.51.161
 Machine2 : 3.84.149.155
 Machine3 : 34.227.18.212
-
-
